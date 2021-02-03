@@ -1,5 +1,7 @@
 # 🚜Predicting the Sale Price of Bulldozers using Machine Learning
 
+## [Jupyter Notebook - NBViewer Link](https://nbviewer.jupyter.org/github/Madhur6234/Bulldozer-Sale-Price-Prediction/blob/main/Bulldozer-Sale-Price-Prediction.ipynb)
+
 In this notebook, we're going to go through an example machine learning project with the goal of predicting the sale price of bulldozers.
 
 ### Libraries used:
